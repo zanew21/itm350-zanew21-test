@@ -1,0 +1,18 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "main": "itm350-zanew21-test",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "itm350-zanew21-test"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Zane Wood",
+  "license": "ISC",
+  "description": ""
+}
