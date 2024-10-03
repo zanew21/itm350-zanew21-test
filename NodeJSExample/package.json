@@ -2,8 +2,16 @@
   "name": "nodejsexample",
   "version": "1.0.0",
   "main": "itm350-zanew21-test",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  },
   "scripts": {
-    "test": "jest"
+    "start": "node server.js",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -15,4 +23,5 @@
   "author": "Zane Wood",
   "license": "ISC",
   "description": ""
+
 }
